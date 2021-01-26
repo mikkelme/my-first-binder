@@ -2,3 +2,4 @@ numpy
 matplotlib
 seaborn
 FFmpeg
+jupyterlab>=1.0
