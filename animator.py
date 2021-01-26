@@ -46,7 +46,7 @@ def animator(MB_start, OB_start, MB_end, OB_end, coast_center, coast_angle, manu
 
     my_lines = [] ## array to keep track of the Line2D artists
     i = 0
-    fig = plt.figure(num=0, figsize=(10, 7), facecolor='w', edgecolor='k')
+    fig = plt.figure(num=0, figsize=(9, 7), facecolor='w', edgecolor='k')
 
 
     #--- Normal plot (x,y) ---#
